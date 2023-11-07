@@ -1,0 +1,33 @@
+
+/*Container*/
+.container {
+    margin:0 30px;
+}
+
+.res-pic img {
+    width:27%;
+    height:220px;
+    margin:15px;
+    border-radius: 15px;
+}
+.res-pic {
+    text-align: center;
+}
+.menu {
+    background-color:lightsalmon;
+    padding:0 15px;
+    border-radius: 20px;
+}
+
+
+.icon .bi {
+    color:white;
+    font-size: 30px;
+    margin:0 15px;
+}
+.icon {
+    text-align: center;
+}
+.email {
+    padding-left: 30px;
+}
